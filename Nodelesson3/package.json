@@ -1,0 +1,17 @@
+{
+  "name": "nodejsprojects",
+  "version": "1.0.0",
+  "description": "routing with connect",
+  "main": "index.js",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.7.0",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "artem",
+  "license": "ISC"
+}
